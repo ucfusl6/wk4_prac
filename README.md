@@ -2,7 +2,7 @@
 week 6 practice
 
 
-Question to ask on Slack: 
+Question:
 
 Q1: In section 6.7, it said that " Based on the results of the Ripley’s K analysis earlier, we can see that we are getting clustering up to a radius of around 1200m, with the largest bulge in the graph at around 700m. Therefore, 700m is probably a good place to start and we will begin by searching for clusters of at least 4 points…". 
 
